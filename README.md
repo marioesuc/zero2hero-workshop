@@ -41,6 +41,3 @@ kubectl apply -f k8s/deployment.yaml
 # Expose the application
 kubectl apply -f k8s/service.yaml
 ```
-
-
-
